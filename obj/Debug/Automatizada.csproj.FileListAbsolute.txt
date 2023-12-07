@@ -1,0 +1,17 @@
+C:\Users\laura\source\repos\Automatizada\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\laura\source\repos\Automatizada\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\laura\source\repos\Automatizada\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\laura\source\repos\Automatizada\bin\Debug\Automatizada.exe.config
+C:\Users\laura\source\repos\Automatizada\bin\Debug\Automatizada.exe
+C:\Users\laura\source\repos\Automatizada\bin\Debug\Automatizada.pdb
+C:\Users\laura\source\repos\Automatizada\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laura\source\repos\Automatizada\bin\Debug\System.Drawing.Common.dll
+C:\Users\laura\source\repos\Automatizada\bin\Debug\WebDriver.dll
+C:\Users\laura\source\repos\Automatizada\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laura\source\repos\Automatizada\bin\Debug\System.Drawing.Common.xml
+C:\Users\laura\source\repos\Automatizada\bin\Debug\WebDriver.xml
+C:\Users\laura\source\repos\Automatizada\obj\Debug\Automatizada.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\Automatizada\obj\Debug\Automatizada.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\Automatizada\obj\Debug\Automatizada.csproj.CopyComplete
+C:\Users\laura\source\repos\Automatizada\obj\Debug\Automatizada.exe
+C:\Users\laura\source\repos\Automatizada\obj\Debug\Automatizada.pdb
